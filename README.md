@@ -1,5 +1,5 @@
 # APCV498_SP22_Team-2
-Course Objectives 
+**Objectives** 
 
   The course is developed by centering on a semester-length project. Students who complete the course 
   are expected to become competent in: 
@@ -12,7 +12,7 @@ Course Objectives
 +  Think critically and creatively, both independently and with others. 
 +  Be aware of project management and business practices. 
 
-Expected Learning Outcomes 
+**Expected Learning Outcomes**
 
 The student will learn to: 
   1. Identify the type of project that they need to do to solve a problem. 
