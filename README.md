@@ -1,8 +1,8 @@
 # APCV498_SP22_Team-2
-	The project that our team has been assigned to do is a Virtual Reality video presentation for the
-    Colorado River State Historic Park located in Yuma, AZ. The stakeholders of the project are Tammy 
-    Snook and Brett Frame. They would like this video to be uploaded to their website in order to give 
-    potential visitors a quick look at the park and its offerings. 
+    This project is a Virtual Reality video presentation for the Colorado River State Historic Park 
+    located in Yuma, AZ. The stakeholders of the project are Tammy Snook and Brett Frame. They would
+    like this video to be uploaded to their website in order to give potential visitors a quick look at 
+    the park and its offerings. 
 
 	The immediate customer would be Tammy and Brett with the end customer being the viewer of the website 
     interested in a trip to visit the park. The stakeholders are looking for us to produce a quality video
